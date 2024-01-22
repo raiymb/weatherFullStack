@@ -2,10 +2,14 @@
 ## Introduction
 Derbes is a full-stack web application providing real-time weather updates, city-specific information, and related news articles.APIs from OpenWeatherMap, Wikipedia, and GNews.
 ## Features
-Current Weather Data: Access real-time weather information for any city.
-City Information: Fetch city-specific information from Wikipedia.
-News Feed: Read news articles related to the searched city.
-Responsive Design: Compatible with various devices and screen sizes.
+ - **Current Weather Data**: Access real-time weather information for any city.
+
+ - **City Information**: Fetch city-specific information from Wikipedia.
+
+ - **News Feed**: Read news articles related to the searched city.
+
+ - **Responsive Design**: Compatible with various devices and screen sizes.
+
 ## Getting Started
 
 ### Prerequisites
