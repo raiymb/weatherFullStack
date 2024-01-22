@@ -27,7 +27,7 @@ cd client
 
 npm install
 ```
-после установок зависимости react части, надо скачать зависимости node.js 
+After installing the react dependencies, you need to download the node.js dependencies
 ```
 cd -
 cd server
@@ -41,13 +41,15 @@ WEATHER_API_TOKEN=<Your_OpenWeatherMap_API_Key>
 GNEWS_API_KEY=<Your_GNews_API_Key>
 ```
  - **Run the application**
+To build our project, and use it in one localhost:
 ```
 cd client
-
 npm run build
 ```
-then 
+then
 ```
+cd -
+cd server
 npm start
 ```
  - **Access the Application**
