@@ -23,6 +23,14 @@ cd weatherFullStack
 ```
  - **Install dependencies**
 ```
+cd client
+
+npm install
+```
+после установок зависимости react части, надо скачать зависимости node.js 
+```
+cd -
+cd server
 npm install
 ```
  - **Environment Setup**
